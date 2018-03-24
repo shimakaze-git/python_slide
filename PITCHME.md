@@ -47,13 +47,12 @@ PythonでWEBアプリケーションにはDjangoがオススメ
 
 Python学習でオススメサイト
 ![PyQ](https://pyq.jp/static/img/logo_square_small.png)
-[PyQ](https://pyq.jp/)
+- [PyQ](https://pyq.jp/)
 
 ---
 
 Django学習でオススメサイト
-![DjangoGirls](https://djangogirls.org/static/img/logo-bigger.png)
-[DjangoGirls](https://djangogirlsjapan.gitbooks.io/workshop_tutorialjp/)
+- [DjangoGirls](https://djangogirlsjapan.gitbooks.io/workshop_tutorialjp/)
 
 ---
 
