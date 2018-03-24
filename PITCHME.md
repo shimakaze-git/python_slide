@@ -33,5 +33,14 @@ Pythonができる事
 
 ---
 
-PythonでWEBアプリケーション
+Pythonの良い所
+- 学習コストが圧倒的に低い
+- コードが読みやすい
+- ライブラリが非常に豊富(pipというパッケージ管理ツールが非常に良い)
+
+---
+PythonでWEBアプリケーションにはDjangoがオススメ
+![shimakaze_soft](https://image.slidesharecdn.com/djangopub-141206005334-conversion-gate02/95/djangoceleyweb-11-638.jpg?cb=1417830019)
+
+---
 
