@@ -41,6 +41,7 @@ Pythonの良い所
 ---
 
 PythonでWEBアプリケーションにはDjangoがオススメ
+
 ![shimakaze_soft](https://image.slidesharecdn.com/djangopub-141206005334-conversion-gate02/95/djangoceleyweb-11-638.jpg?cb=1417830019)
 
 ---
