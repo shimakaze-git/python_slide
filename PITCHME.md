@@ -1,12 +1,18 @@
-# Pythonは機械学習だけじゃないよ
-
-
+Pythonは機械学習だけじゃないよ
 
 ---
-### 自己紹介
-
-
-
+![shimakaze_soft](https://pbs.twimg.com/profile_images/909066968413511680/C3yzWTzO_400x400.jpg)
+- twitter:@shimakaze_soft
+- github:shimakaze-git
+- age:23
+---
+- Programming
+ - Python,Ruby,js
+- FrameWork 
+ - Falcon,Django(Python)
+ - Larvel(PHP)
+ - Vue.js
+- DjangoConJP Staff
 ---
 
 
