@@ -46,8 +46,10 @@ PythonでWEBアプリケーションにはDjangoがオススメ
 ---
 
 Python学習でオススメサイト
+
 ![PyQ](https://pyq.jp/static/img/logo_square_small.png)
-- [PyQ](https://pyq.jp/)
+
+[PyQ](https://pyq.jp/)
 
 ---
 
