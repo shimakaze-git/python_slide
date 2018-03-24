@@ -39,8 +39,12 @@ Pythonの良い所
 - ライブラリが非常に豊富(pipというパッケージ管理ツールが非常に良い)
 
 ---
+
 PythonでWEBアプリケーションにはDjangoがオススメ
 ![shimakaze_soft](https://image.slidesharecdn.com/djangopub-141206005334-conversion-gate02/95/djangoceleyweb-11-638.jpg?cb=1417830019)
 
 ---
 
+Python学習でオススメサイト
+![PyQ](https://pyq.jp/static/img/logo_square_small.png)
+- [PyQ](https://pyq.jp/)
